@@ -31,6 +31,7 @@ const stringArray = "array"
 let testVariable = "String"
 const testNumber = 23
 const testBoolEmptyString = ""
+let booleanStringIsTrue = "thisistrue"
 let testArray = ["this", is, "an", stringArray]
 
 /******************************************************************************
